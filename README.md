@@ -1,3 +1,5 @@
+migrated to new location: https://codeberg.org/shackspace/shackspace-glossar
+
 # shackspace-Glossar
 
 Hier entsteht das shackspace-Glossar.
